@@ -104,6 +104,10 @@ header {
   text-align: center;
   align-self: center;
 }
+.hero {
+  padding-top: 179px;
+  padding-bottom: 179px;
+}
 .featureTitle {
   font-weight: 700;
   line-height: 1.17;
