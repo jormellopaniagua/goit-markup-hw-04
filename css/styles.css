@@ -20,6 +20,10 @@ body {
   letter-spacing: 0.03em;
   /*margin: 0%;*/
 }
+.ghost {
+  display: none;
+}
+
 header {
   border-bottom: 1px solid rgba(236, 236, 236, 1);
 }
